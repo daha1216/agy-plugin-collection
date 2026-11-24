@@ -2,7 +2,7 @@
 
 > Google Antigravity（AGY）自用第三方插件与配套工具推荐清单。
 
-[![Plugins](https://img.shields.io/badge/curated-5%20items-brightgreen.svg)](#插件清单)
+[![Plugins](https://img.shields.io/badge/curated-6%20items-brightgreen.svg)](#插件清单)
 [![Surface](https://img.shields.io/badge/surface-Desktop%202.0%20%7C%20IDE%20%7C%20CLI-orange.svg)](#插件清单)
 
 本仓库**仅整理自用推荐的第三方插件/工具清单与作者源仓库索引**，不托管、不打包任何源码。如需安装或更新，请直接点击表格中的**源仓库地址**，前往作者仓库拉取最新版本。
@@ -23,6 +23,7 @@
 |---|---|---|
 | `usage-monitor` | 全端本地用量、速率、上下文与配额监控（支持 Desktop 2.0 / IDE / CLI / SSH 远端）：实时追踪 tok/s、TTFT、10 类上下文构成、多配额池与租约预占、主/子代理及蜂群调用明细，支持跨端会话迁移与 Excel 报表导出 | [yuhuan-dev/antigravity-usage-monitor](https://github.com/yuhuan-dev/antigravity-usage-monitor) |
 | `agy-capsule` | 输入框底栏紧凑遥测胶囊与原位模型面板：实时展示上下文占用、缓存过期变色提醒、5h/周配额与生成速率动效，带慢首字与报错红黄胶囊预警、原位思考强度滑条及侧栏用量活动热力图 | [Lumidarin/agy-capsule](https://github.com/Lumidarin/agy-capsule) |
+| `antigravity-desktop-cn` | Antigravity 桌面版中文汉化引擎（支持 Windows / macOS / Linux 一键安装与备份无损还原）：基于 ASAR 注入动态界面翻译，严格隔离会话正文、思考流、文件树、代码区与图标防止误译，并内置轻量上下文占用圆环、分类构成与输出速率监控浮卡 | [Silas-02/antigravity-desktop-cn](https://github.com/Silas-02/antigravity-desktop-cn) |
 
 ### 🌐 网络代理与账号管理
 
